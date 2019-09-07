@@ -3,12 +3,12 @@
         "author" : "Atyoms", 
         "name" : "Atyoms", 
         "keyWords" : "Atyoms",
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "dofusVersion" : "2.52", 
-        "description" : "Test Thème Maggle", 
+        "description" : "Thème Guilde", 
         "url" : "https://github.com/Atyooms/Th-me/blob/master/Atyoms.zip?raw=true",
         "previewUrl" : "https://github.com/Atyooms/Th-me/blob/master/Atyoms.jpg", 
         "creationDate" : "05/09/2019", 
-        "modificationDate" : "05/09/2019"
+        "modificationDate" : "07/09/2019"
     } 
 ]
